@@ -65,7 +65,8 @@ a:link {
 }
 .jumbtron{
     width:50%;
-    font-size:90%;
+    height:150%;
+    font-size:120%;
 }
 p{
     margin-left: none;
@@ -82,8 +83,9 @@ p{
 
 }
 .jumbtron{
-    width:75%;
-    font-size:90%;
+    width:50%;
+    height:150%;
+    font-size:120%;
 }
 p{
     margin-left: none;
