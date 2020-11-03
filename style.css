@@ -1,0 +1,120 @@
+.footer{
+    background-color: rgba(37, 36, 36, 0.671);
+    color:white;
+    text-align:center;
+    height: 3em;
+    position: relative;
+    padding-top: 0.5em;
+    
+    
+}
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link:hover {
+    color:purple;
+    
+}
+.img{
+    padding-top:0.5em;
+}
+a:link {
+    color: palevioletred;
+    text-shadow: none;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: palevioletred;
+    text-shadow: none;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: palevioletred;
+    text-shadow: none;
+  }
+  
+  /* selected link */
+  a:active {
+    color: palevioletred;
+    text-shadow: none;
+  }
+@media (max-width: 600px) {
+    .body{
+        background-size: contain;
+        height: 50%;
+        background-repeat: no-repeat;
+
+    }
+    .jumbtron{
+        width:50%;
+        font-size:90%;
+    }
+    p{
+        margin-left: none;
+        margin-right: none;
+    }
+
+}  
+
+@media only screen and (min-width: 600px) {
+    .body{
+    background-size: contain;
+    height: 50%;
+    background-repeat: no-repeat;
+
+}
+.jumbtron{
+    width:50%;
+    font-size:90%;
+}
+p{
+    margin-left: none;
+    margin-right: none;
+}
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) 
+{.body{
+    background-size: contain;
+    height: 75%;
+    background-repeat: no-repeat;
+
+}
+.jumbtron{
+    width:75%;
+    font-size:90%;
+}
+p{
+    margin-left: none;
+    margin-right: none;
+}}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .body{
+    height: 100%;
+    background-repeat: no-repeat;
+  
+
+}
+.jumbtron{
+    width:100%;
+    font-size:100%;
+}
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .body{
+    height: 120%;
+    background-repeat: no-repeat;
+
+}
+.jumbtron{
+    width:120%;
+    font-size:110%;
+}
+p{
+    font-size:110%;
+}}
