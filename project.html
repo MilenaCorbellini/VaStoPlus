@@ -84,8 +84,8 @@
         <path fill-rule="evenodd" d="M15.825.12a.5.5 0 0 1 .132.584c-1.53 3.43-4.743 8.17-7.095 10.64a6.067 6.067 0 0 1-2.373 1.534c-.018.227-.06.538-.16.868-.201.659-.667 1.479-1.708 1.74a8.117 8.117 0 0 1-3.078.132 3.658 3.658 0 0 1-.563-.135 1.382 1.382 0 0 1-.465-.247.714.714 0 0 1-.204-.288.622.622 0 0 1 .004-.443c.095-.245.316-.38.461-.452.393-.197.625-.453.867-.826.094-.144.184-.297.287-.472l.117-.198c.151-.255.326-.54.546-.848.528-.739 1.2-.925 1.746-.896.126.007.243.025.348.048.062-.172.142-.38.238-.608.261-.619.658-1.419 1.187-2.069 2.175-2.67 6.18-6.206 9.117-8.104a.5.5 0 0 1 .596.04zM4.705 11.912a1.23 1.23 0 0 0-.419-.1c-.247-.013-.574.05-.88.479a11.01 11.01 0 0 0-.5.777l-.104.177c-.107.181-.213.362-.32.528-.206.317-.438.61-.76.861a7.127 7.127 0 0 0 2.657-.12c.559-.139.843-.569.993-1.06a3.121 3.121 0 0 0 .126-.75l-.793-.792zm1.44.026c.12-.04.277-.1.458-.183a5.068 5.068 0 0 0 1.535-1.1c1.9-1.996 4.412-5.57 6.052-8.631-2.591 1.927-5.566 4.66-7.302 6.792-.442.543-.796 1.243-1.042 1.826a11.507 11.507 0 0 0-.276.721l.575.575zm-4.973 3.04l.007-.005a.031.031 0 0 1-.007.004zm3.582-3.043l.002.001h-.002z"/>
       </svg></h1>
         <p style=" margin-left: 5em; margin-right: 5em;">I decided to create a little Archive all connected with the Proemio of the <i>Storia Fiorentina</i> using the features of Omeka.net.
-        I created three collections in the archive: the first contains all the facsimiles of the Manuscript RC4 inserted in Progetto VaSto (8r-13r); the second has a bibliographical presentation for each one of the historical charcters presented in the Proemio; the third one presents portraits of the historical characters.</br> The connections etween the three collections are mede using tags with the names of the subjects.  </p>
-        <a class="btn btn-light btn-lg" href="https://archivevasto.omeka.net/" style="color: white; background-color: purple; border-color: white; opacity: 0.9;" target="_blank">ArchiveVaSto</a>
+          I created three collections in the archive: the first contains all the facsimiles of the Manuscript RC4 inserted in Progetto VaSto (8r-13r); the second has a bibliographical presentation for each one of the historical charcters presented in the Proemio; the third one presents portraits of the historical characters.</br> The connections etween the three collections are mede using tags with the names of the subjects.  </p>
+          <a class="btn btn-light btn-lg" href="https://archivevasto.omeka.net/" style="color: white; background-color: purple; border-color: white; opacity: 0.9;" target="_blank">ArchiveVaSto</a>
       </div>
     </div>
     <div class="container-fluid" id="S" style="background-color: purple; border-bottom: solid rgba(255, 182, 193, 0.712) 1.5em ;">
@@ -93,9 +93,19 @@
       <h1><svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-intersect" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
         <path fill-rule="evenodd" d="M0 2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v2h2a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-2H2a2 2 0 0 1-2-2V2zm5 10v2a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1h-2v5a2 2 0 0 1-2 2H5zm6-8H6a2 2 0 0 0-2 2v5H2a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h8a1 1 0 0 1 1 1v2z"/>
       </svg> IIIF</h1>
-        <p style=" margin-left: 5em; margin-right: 5em;">VaSto is a Digital Edition of the <i>Storia Fiorentina</i> written between 1503-1565 by Benedetto Varchi. The Progetto VaSto is the result of the collaboration between the University of Bologna, the Concordia University of Montreal and CarisBo, and presents, in an interactive digital environment, the digital edition genetics and annotation of the manuscript RC4 conserved at the <a href="https://www.lincei.it/it/biblioteca-dellaccademia-nazionale-dei-lincei-e-corsiniana">Biblioteca dell'Accademia Nazionale dei Lincei e Corsiniana</a>. </br>
-          This Edition was structured by the <a href="https://centri.unibo.it/dharc/en" target="_blank">/Dh.arc</a> centre using <a href="http://evt.labcd.unipi.it/"> EVT2 - beta2 (Edition Visualisation Technology)</a>. The aim of VaSto+ is to reuse the images of the Proemio of the Manuscript RC4 to create an Archive and a different visualization. </p>
-        <a class="btn btn-light btn-lg" href="" style="color: white; background-color: purple; border-color: white; opacity: 0.9;">The Ontology</a>
+        <p style=" margin-left: 5em; margin-right: 5em;">I decided to try a different visualization approach of the Proemio of the <i>Storia Fiorentina</i> using IIIF and I uploaded the images on a hosting Platform, <a href="https://www.iiifhosting.com/" target="_blank">IIIF hosting</a>, and then I configured the URI of the images conforming to the following URI template:
+          {scheme}://{server}{/prefix}/{identifier}/{region}/{size}/{rotation}/{quality}.{format}.
+        </br>
+        
+          <ul>
+            <li><a href="http://free.iiifhosting.com/iiif/bdf9ad628386c80f92f9ee81a3d2c6906e4ba088f684d6348e670e754cd002a8/full/full/0/default.jpg" target="_blank">8r</a></li>
+            <li><a href="http://free.iiifhosting.com/iiif/206e878df9e8bc27c7047b6668239f140c0f1fcf33982a99a1611afd54cad88a/full/full/0/default.jpg" target="_blank">8v</a></li>
+            <li><a href="http://free.iiifhosting.com/iiif/2c92807d8d984437011fee213b02726efa67aac6fbbc0b277757b3055440de03/full/full/0/default.jpg" target="_blank">9r</a></li>
+            <li><a href="http://free.iiifhosting.com/iiif/60c686930bbf31ec050356e12c4fa3e202e7a14537900e53781cdf4032d4104e/full/full/0/default.jpg" target="_blank">9v</a></li>
+            <li><a href="http://free.iiifhosting.com/iiif/a48c9eaf0dd77b2ddb64df844fe108dd3b16b8bb3903dc7afe2ae6c56d6878af/full/full/0/default.jpg" target="_blank">10r</a></li>
+          </ul></p>
+        Using this <a href="https://iiif.io/api/image/3.0/#3-identifier" target="_blank">instruction</a> you can manipulate the visualization of the images directly online.
+        Then I created a IIIF manifest of the images, that you can find <a href="https://github.com/MilenaCorbellini/VaStoPlus/blob/main/manifest.json" target="_blank">here</a>, using a <a href="https://iiif-manifest-editor.textandbytes.com/#/?_k=dvocea" target="_blank">IIIF Manifest Editor</a>.
         </div>
     </div>
   
