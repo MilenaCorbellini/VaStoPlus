@@ -72,7 +72,6 @@
 						}
 					],
 					"related": [
-						
 						"https://archivevasto.omeka.net/items/show/1"
 					],
 					"metadata": []
@@ -126,7 +125,6 @@
 						}
 					],
 					"related": [
-					
 						"https://archivevasto.omeka.net/items/show/2"
 					]
 				},
@@ -238,8 +236,8 @@
 					"@id": "http://e8d55cdc-1c85-4fed-aaed-6498ad14ec5b",
 					"@type": "sc:Canvas",
 					"label": "folio 10r of the Proemio of the Storia Fiorentina",
-					"height": 1510,
-					"width": 1024,
+					"height": "261",
+					"width": "400",
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
@@ -289,7 +287,7 @@
 				{
 					"@id": "http://25effef8-8cd2-4386-a777-2ac47529b079",
 					"@type": "sc:Canvas",
-					"label": "Highway exit of the highway \"Firenze-Mare\", 1930s",
+					"label": "folio 10v of the Proemio of the Storia Fiorentina",
 					"height": 667,
 					"width": 960,
 					"images": [
@@ -299,12 +297,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://free.iiifhosting.com/iiif/c399e6e039980a3636c36fe7a5c26d79f1f49d6c209e15c23c83ea5c416eb6e6/full/full/0/default.jpg",
+								"@id": "http://free.iiifhosting.com/iiif/34eb20e155e99661730024f0d69ee1bb59b715a483aebb0cafe4d4c216f13e67/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://free.iiifhosting.com/iiif/c399e6e039980a3636c36fe7a5c26d79f1f49d6c209e15c23c83ea5c416eb6e6",
+									"@id": "http://free.iiifhosting.com/iiif/34eb20e155e99661730024f0d69ee1bb59b715a483aebb0cafe4d4c216f13e67",
 									"profile": [
 										"http://iiif.io/api/image/2/level1.json",
 										{
@@ -328,21 +326,20 @@
 										}
 									]
 								},
-								"height": 667,
-								"width": 960
+								"height": 1509,
+								"width": 1024
 							},
 							"on": "http://25effef8-8cd2-4386-a777-2ac47529b079"
 						}
 					],
 					"related": [
-						"https://peekonperetola.omeka.net/items/show/6",
-						"https://www.historypin.org/en/person/106001/explore/geo/45.0198,-55.607825,2/bounds/-54.320215,-147.601329,83.685086,36.385678/paging/1/pin/1144504"
+						"https://archivevasto.omeka.net/items/show/6"
 					]
 				},
 				{
 					"@id": "http://f8a25e25-ce04-4fa9-9da9-3868b03114d3",
 					"@type": "sc:Canvas",
-					"label": "Florence Flood, 1966",
+					"label": "folio 11r of the Proemio of the Storia Fiorentina",
 					"height": 764,
 					"width": 1087,
 					"images": [
@@ -352,12 +349,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://free.iiifhosting.com/iiif/396765775cc1f42efc0ffa411b5b8956d8109e36f5d6817972a425725919e19c/full/full/0/default.jpg",
+								"@id": "http://free.iiifhosting.com/iiif/34eb20e155e99661730024f0d69ee1bb59b715a483aebb0cafe4d4c216f13e67/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://free.iiifhosting.com/iiif/396765775cc1f42efc0ffa411b5b8956d8109e36f5d6817972a425725919e19c",
+									"@id": "http://free.iiifhosting.com/iiif/34eb20e155e99661730024f0d69ee1bb59b715a483aebb0cafe4d4c216f13e67",
 									"profile": [
 										"http://iiif.io/api/image/2/level1.json",
 										{
@@ -381,21 +378,20 @@
 										}
 									]
 								},
-								"height": 764,
-								"width": 1087
+								"height": 1509,
+								"width": 1024
 							},
 							"on": "http://f8a25e25-ce04-4fa9-9da9-3868b03114d3"
 						}
 					],
 					"related": [
-						"https://peekonperetola.omeka.net/items/show/8",
-						"https://www.historypin.org/en/person/106001/explore/geo/45.0198,-55.607825,2/bounds/-54.320215,-147.601329,83.685086,36.385678/paging/1/pin/1144503"
-					]
+						"https://archivevasto.omeka.net/items/show/7"
+							]
 				},
 				{
 					"@id": "http://67262d25-a3e9-4a72-9ba6-043e8ddf91e9",
 					"@type": "sc:Canvas",
-					"label": "Amerigo Vespucci's house",
+					"label": "folio 11v of the Proemio of the Storia Fiorentina",
 					"height": 636,
 					"width": 854,
 					"images": [
@@ -405,12 +401,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://free.iiifhosting.com/iiif/12cbeff361ef3f5ba25484c6f4a8c97354203f0d52ed64c01e7eb71d0ec648f8/full/full/0/default.jpg",
+								"@id": "http://free.iiifhosting.com/iiif/34eb20e155e99661730024f0d69ee1bb59b715a483aebb0cafe4d4c216f13e67/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://free.iiifhosting.com/iiif/12cbeff361ef3f5ba25484c6f4a8c97354203f0d52ed64c01e7eb71d0ec648f8",
+									"@id": "http://free.iiifhosting.com/iiif/34eb20e155e99661730024f0d69ee1bb59b715a483aebb0cafe4d4c216f13e67",
 									"profile": [
 										"http://iiif.io/api/image/2/level1.json",
 										{
@@ -434,28 +430,68 @@
 										}
 									]
 								},
-								"height": 636,
-								"width": 854
+								"height": 1509,
+								"width": 1024
 							},
 							"on": "http://67262d25-a3e9-4a72-9ba6-043e8ddf91e9"
 						}
 					],
 					"related": [
-						"https://peekonperetola.omeka.net/items/show/9",
-						"https://www.historypin.org/en/person/106001/explore/geo/45.0198,-55.607825,2/bounds/-54.320215,-147.601329,83.685086,36.385678/paging/1/pin/1144495"
-					]
+						"https://archivevasto.omeka.net/items/show/7"]
 				},
 				{
 					"@id": "http://d9d4eb53-3b4f-48ad-9a13-96d10128fa95",
 					"@type": "sc:Canvas",
-					"label": "8r",
-					"height": 0,
-					"width": 0,
-					"images": [],
-					"related": ""
-				}
-			]
-		}
-	],
-	"structures": []
+					"label": "folio 11v of the Proemio of the Storia Fiorentina",
+					"height": 636,
+					"width": 854,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://free.iiifhosting.com/iiif/34eb20e155e99661730024f0d69ee1bb59b715a483aebb0cafe4d4c216f13e67/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://free.iiifhosting.com/iiif/34eb20e155e99661730024f0d69ee1bb59b715a483aebb0cafe4d4c216f13e67",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1509,
+								"width": 1024
+							},
+							"on": "http://d9d4eb53-3b4f-48ad-9a13-96d10128fa95"
+						}
+					],
+					"related": [
+						"https://archivevasto.omeka.net/items/show/8"]
+				},
+				{}
+			
+	]
+}
+	]
 }
