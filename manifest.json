@@ -595,60 +595,7 @@
 					"related": [
 						"https://archivevasto.omeka.net/items/show/11"
 					]
-				},
-				{
-					"@id": "http://ffb28487-4362-40ba-a6de-3b1be42d5889",
-					"@type": "sc:Canvas",
-					"label": "folio 12r of the Proemio of the Storia Fiorentina",
-					"height": 636,
-					"width": 854,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://1210e415-d75c-4446-8d68-fe7f16c94b3c",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "http://free.iiifhosting.com/iiif/34eb20e155e99661730024f0d69ee1bb59b715a483aebb0cafe4d4c216f13e67/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://free.iiifhosting.com/iiif/34eb20e155e99661730024f0d69ee1bb59b715a483aebb0cafe4d4c216f13e67",
-									"profile": [
-										"http://iiif.io/api/image/2/level1.json",
-										{
-											"formats": [
-												"jpg"
-											],
-											"qualities": [
-												"native",
-												"color",
-												"gray"
-											],
-											"supports": [
-												"regionByPct",
-												"regionSquare",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"sizeAboveFull",
-												"rotationBy90s",
-												"mirroring"
-											]
-										}
-									]
-								},
-								"height": 1509,
-								"width": 1024
-							},
-							"on": "http://d9d4eb53-3b4f-48ad-9a13-96d10128fa95"
-						}
-					],
-					"related": [
-						"https://archivevasto.omeka.net/items/show/8"
-					]
-				},
-				{}
+				}
 			]
 		}
 	]
