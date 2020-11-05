@@ -442,13 +442,13 @@
 				{
 					"@id": "http://d9d4eb53-3b4f-48ad-9a13-96d10128fa95",
 					"@type": "sc:Canvas",
-					"label": "folio 11v of the Proemio of the Storia Fiorentina",
+					"label": "folio 12r of the Proemio of the Storia Fiorentina",
 					"height": 636,
 					"width": 854,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://1210e415-d75c-4446-8d68-fe7f16c94b3b",
+							"@id": "http://1210e415-d75c-4446-8d68-fe7f16c94b3c",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
