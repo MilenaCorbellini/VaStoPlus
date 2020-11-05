@@ -349,12 +349,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://free.iiifhosting.com/iiif/34eb20e155e99661730024f0d69ee1bb59b715a483aebb0cafe4d4c216f13e67/full/full/0/default.jpg",
+								"@id": "http://free.iiifhosting.com/iiif/c1a042f9255b1726f933a12bf44d909238e7305cc84db593b99f4d7fbbc5c388/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://free.iiifhosting.com/iiif/34eb20e155e99661730024f0d69ee1bb59b715a483aebb0cafe4d4c216f13e67",
+									"@id": "http://free.iiifhosting.com/iiif/c1a042f9255b1726f933a12bf44d909238e7305cc84db593b99f4d7fbbc5c388/",
 									"profile": [
 										"http://iiif.io/api/image/2/level1.json",
 										{
@@ -386,7 +386,7 @@
 					],
 					"related": [
 						"https://archivevasto.omeka.net/items/show/7"
-							]
+					]
 				},
 				{
 					"@id": "http://67262d25-a3e9-4a72-9ba6-043e8ddf91e9",
@@ -401,12 +401,64 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://free.iiifhosting.com/iiif/34eb20e155e99661730024f0d69ee1bb59b715a483aebb0cafe4d4c216f13e67/full/full/0/default.jpg",
+								"@id": "http://free.iiifhosting.com/iiif/557edfcc9e0ea9e332063721cf8c1dc0eb6fc87d0a3af6fdb84535de5b922e9d/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://free.iiifhosting.com/iiif/34eb20e155e99661730024f0d69ee1bb59b715a483aebb0cafe4d4c216f13e67",
+									"@id": "http://free.iiifhosting.com/iiif/557edfcc9e0ea9e332063721cf8c1dc0eb6fc87d0a3af6fdb84535de5b922e9d",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1510,
+								"width": 1024
+							},
+							"on": "http://67262d25-a3e9-4a72-9ba6-043e8ddf91e9"
+						}
+					],
+					"related": [
+						"https://archivevasto.omeka.net/items/show/8"
+					]
+				},
+				{
+					"@id": "http://d9d4eb53-3b4f-48ad-9a13-96d10128fa95",
+					"@type": "sc:Canvas",
+					"label": "folio 12r of the Proemio of the Storia Fiorentina",
+					"height": 636,
+					"width": 854,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://1210e415-d75c-4446-8d68-fe7f16c94b3c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://free.iiifhosting.com/iiif/f12968fec66a82a57a7bc337c8f0482b5eb85d5274913accba4e2393bcf139c0/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://free.iiifhosting.com/iiif/f12968fec66a82a57a7bc337c8f0482b5eb85d5274913accba4e2393bcf139c0",
 									"profile": [
 										"http://iiif.io/api/image/2/level1.json",
 										{
@@ -433,14 +485,119 @@
 								"height": 1509,
 								"width": 1024
 							},
-							"on": "http://67262d25-a3e9-4a72-9ba6-043e8ddf91e9"
+							"on": "http://d9d4eb53-3b4f-48ad-9a13-96d10128fa95"
 						}
 					],
 					"related": [
-						"https://archivevasto.omeka.net/items/show/7"]
+						"https://archivevasto.omeka.net/items/show/9"
+					]
 				},
 				{
-					"@id": "http://d9d4eb53-3b4f-48ad-9a13-96d10128fa95",
+					"@id": "http://a4f25c69-9e22-4084-ba2e-58a9ab18d76b",
+					"@type": "sc:Canvas",
+					"label": "folio 12v of the Proemio of the Storia Fiorentina",
+					"height": 636,
+					"width": 854,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://1210e415-d75c-4446-8d68-fe7f16c94b3c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://free.iiifhosting.com/iiif/ea48e460faca36df6919eff30b025810110d695a22f8d4413a6d3004dc7f605a/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://free.iiifhosting.com/iiif/ea48e460faca36df6919eff30b025810110d695a22f8d4413a6d3004dc7f605a/",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1510,
+								"width": 1024
+							},
+							"on": "http://d9d4eb53-3b4f-48ad-9a13-96d10128fa95"
+						}
+					],
+					"related": [
+						"https://archivevasto.omeka.net/items/show/10"
+					]
+				},
+				{
+					"@id": "http://b2e4ff3b-c541-49f5-a793-188b58ed48da",
+					"@type": "sc:Canvas",
+					"label": "folio 13r of the Proemio of the Storia Fiorentina",
+					"height": 636,
+					"width": 854,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://1210e415-d75c-4446-8d68-fe7f16c94b3c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://free.iiifhosting.com/iiif/334d6cca9210a4689328f4e43dd35e86dab858d01c004cb01da127d8d9f7559c/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://free.iiifhosting.com/iiif/334d6cca9210a4689328f4e43dd35e86dab858d01c004cb01da127d8d9f7559c/",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1509,
+								"width": 1024
+							},
+							"on": "http://d9d4eb53-3b4f-48ad-9a13-96d10128fa95"
+						}
+					],
+					"related": [
+						"https://archivevasto.omeka.net/items/show/11"
+					]
+				},
+				{
+					"@id": "http://ffb28487-4362-40ba-a6de-3b1be42d5889",
 					"@type": "sc:Canvas",
 					"label": "folio 12r of the Proemio of the Storia Fiorentina",
 					"height": 636,
@@ -488,11 +645,11 @@
 						}
 					],
 					"related": [
-						"https://archivevasto.omeka.net/items/show/8"]
+						"https://archivevasto.omeka.net/items/show/8"
+					]
 				},
 				{}
-			
-	]
-}
+			]
+		}
 	]
 }
