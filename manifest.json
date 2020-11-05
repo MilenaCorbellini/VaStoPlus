@@ -448,6 +448,7 @@
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://1210e415-d75c-4446-8d68-fe7f16c94b3b",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
