@@ -2,21 +2,16 @@
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": "http://9499b3d9-cffc-464c-b44a-4613a5410cb9",
 	"@type": "sc:Manifest",
-	"label": "Proemio of the Storia Fiorentina by Benedetto Varchi",
+	"label": "Peretola, Florence, vintage photos",
 	"metadata": [],
 	"description": [
 		{
-			"@value": "A collection including all the photos of the pages of the Manuscript RC4, Storia Fiorentina by Benedetto Varchi",
+			"@value": "A collection of vintage photos of Peretola, an ancient suburb in Florence.",
 			"@language": "en"
 		}
 	],
-	"license": "All the rights are strictly reserved. You are not allowed to reproduce the images.",
-	"attribution": [
-		"Publisher: Milena Corbellini",
-		{
-			"@value": "RightHolder: Biblioteca dell'Accademia Nazionale dei Lincei e Corsiniana"
-		}
-	],
+	"license": "https://creativecommons.org/licenses/by-sa/4.0/",
+	"attribution": "Publisher: Rebecca Del Bene",
 	"sequences": [
 		{
 			"@id": "http://e38dbbf3-086c-4966-86af-8c7777475ebd",
@@ -26,7 +21,7 @@
 				{
 					"@id": "http://21aed596-803c-476a-8df9-9afbd6e63283",
 					"@type": "sc:Canvas",
-					"label": "folio 8r of the Proemio of the Storia Fiorentina",
+					"label": "Solemn inauguration of the statue of Giuseppe Garibaldi in Peretola square.",
 					"height": 861,
 					"width": 1076,
 					"images": [
@@ -73,31 +68,29 @@
 					],
 					"related": [
 						"https://peekonperetola.omeka.net/items/show/1",
-						null,
-						null,
-						"https://archivevasto.omeka.net/items/show/1"
+						"https://www.historypin.org/en/person/106001/explore/geo/45.0198,-55.607825,2/bounds/-54.320215,-147.601329,83.685086,36.385678/paging/1/pin/1144495"
 					],
 					"metadata": []
 				},
 				{
 					"@id": "http://82bc39bf-7c82-4033-b74a-d52710286181",
 					"@type": "sc:Canvas",
-					"label": "folio 8v of the Proemio of the Storia Fiorentina",
+					"label": "View of the church of \"Santa Maria a Peretola\"",
 					"height": 607,
 					"width": 960,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://free.iiifhosting.com/iiif/206e878df9e8bc27c7047b6668239f140c0f1fcf33982a99a1611afd54cad88a/",
+							"@id": "http://d1a9efdb-16e4-4169-8deb-b0509ce5907e",
 							"@type": "oa:Annotation",
-							"motivation": "sc:manuscript",
+							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://free.iiifhosting.com/iiif/206e878df9e8bc27c7047b6668239f140c0f1fcf33982a99a1611afd54cad88a/full/full/0/default.jpg",
+								"@id": "http://free.iiifhosting.com/iiif/9f1cffb4c26907d555b99dc77361ab771d468287a3c1e4ec01bc04d8f46299c1/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://free.iiifhosting.com/iiif/206e878df9e8bc27c7047b6668239f140c0f1fcf33982a99a1611afd54cad88a/",
+									"@id": "http://free.iiifhosting.com/iiif/9f1cffb4c26907d555b99dc77361ab771d468287a3c1e4ec01bc04d8f46299c1",
 									"profile": [
 										"http://iiif.io/api/image/2/level1.json",
 										{
@@ -121,15 +114,15 @@
 										}
 									]
 								},
-								"height": 1524,
-								"width": 1024
+								"height": 607,
+								"width": 960
 							},
 							"on": "http://82bc39bf-7c82-4033-b74a-d52710286181"
 						}
 					],
 					"related": [
-						"https://peekonperetola.omeka.net/items/show/2",
-						
+						"https://peekonperetola.omeka.net/items/show/3",
+						"https://www.historypin.org/en/person/106001/explore/geo/45.0198,-55.607825,2/bounds/-54.320215,-147.601329,83.685086,36.385678/paging/1/pin/1144496"
 					]
 				},
 				{
