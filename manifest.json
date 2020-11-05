@@ -72,9 +72,7 @@
 						}
 					],
 					"related": [
-						"https://peekonperetola.omeka.net/items/show/1",
-						null,
-						null,
+						
 						"https://archivevasto.omeka.net/items/show/1"
 					],
 					"metadata": []
@@ -128,18 +126,14 @@
 						}
 					],
 					"related": [
-						"https://peekonperetola.omeka.net/items/show/3",
-						null,
-						null,
-						null,
-						null,
+					
 						"https://archivevasto.omeka.net/items/show/2"
 					]
 				},
 				{
 					"@id": "http://8419f289-409a-438b-9fb9-cfdb2bec9669",
 					"@type": "sc:Canvas",
-					"label": "A photo of Peretola square with the arrival of the tramway",
+					"label": "folio 9r of the Proemio of the Storia Fiorentina",
 					"height": 365,
 					"width": 549,
 					"images": [
@@ -149,12 +143,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://free.iiifhosting.com/iiif/a450660fa13976769fbb11e94b39c7ffaf177598dd8e18553e7d44a67c47f661/full/full/0/default.jpg",
+								"@id": "http://free.iiifhosting.com/iiif/2c92807d8d984437011fee213b02726efa67aac6fbbc0b277757b3055440de03/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://free.iiifhosting.com/iiif/a450660fa13976769fbb11e94b39c7ffaf177598dd8e18553e7d44a67c47f661",
+									"@id": "http://free.iiifhosting.com/iiif/2c92807d8d984437011fee213b02726efa67aac6fbbc0b277757b3055440de03",
 									"profile": [
 										"http://iiif.io/api/image/2/level1.json",
 										{
@@ -178,25 +172,20 @@
 										}
 									]
 								},
-								"height": 365,
-								"width": 549
+								"height": 1491,
+								"width": 1024
 							},
 							"on": "http://8419f289-409a-438b-9fb9-cfdb2bec9669"
 						}
 					],
 					"related": [
-						"https://peekonperetola.omeka.net/items/show/2",
-						"https://www.historypin.org/en/person/106001/explore/geo/45.0198,-55.607825,2/bounds/-54.320215,-147.601329,83.685086,36.385678/paging/1/pin/1144497",
-						null,
-						null,
-						null,
-						"https://www.historypin.org/en/person/106001/explore/geo/45.0198,-55.607825,2/bounds/-54.320215,-147.601329,83.685086,36.385678/paging/1/pin/1144497"
+						"https://archivevasto.omeka.net/items/show/3"
 					]
 				},
 				{
 					"@id": "http://fb7da978-92d3-4cb8-b095-32b983660ddf",
 					"@type": "sc:Canvas",
-					"label": "The street of \"Stazione delle Cascine\"",
+					"label": "folio 9v of the Proemio of the Storia Fiorentina",
 					"height": 261,
 					"width": 400,
 					"images": [
@@ -206,12 +195,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://free.iiifhosting.com/iiif/f5464432ca8fb576c1f96ea3b6f39017c899f7c5e706cbccfeadb1fdb0d874b0/full/full/0/default.jpg",
+								"@id": "http://free.iiifhosting.com/iiif/60c686930bbf31ec050356e12c4fa3e202e7a14537900e53781cdf4032d4104e/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://free.iiifhosting.com/iiif/f5464432ca8fb576c1f96ea3b6f39017c899f7c5e706cbccfeadb1fdb0d874b0",
+									"@id": "http://free.iiifhosting.com/iiif/60c686930bbf31ec050356e12c4fa3e202e7a14537900e53781cdf4032d4104e",
 									"profile": [
 										"http://iiif.io/api/image/2/level1.json",
 										{
@@ -235,23 +224,22 @@
 										}
 									]
 								},
-								"height": 261,
-								"width": 400
+								"height": 1510,
+								"width": 1024
 							},
 							"on": "http://fb7da978-92d3-4cb8-b095-32b983660ddf"
 						}
 					],
 					"related": [
-						"https://peekonperetola.omeka.net/items/show/4",
-						"https://www.historypin.org/en/person/106001/explore/geo/45.0198,-55.607825,2/bounds/-54.320215,-147.601329,83.685086,36.385678/paging/1/pin/1144498"
+						"https://archivevasto.omeka.net/items/show/4"
 					]
 				},
 				{
 					"@id": "http://e8d55cdc-1c85-4fed-aaed-6498ad14ec5b",
 					"@type": "sc:Canvas",
-					"label": "The street of \"Via dei Vespucci\"",
-					"height": 644,
-					"width": 965,
+					"label": "folio 10r of the Proemio of the Storia Fiorentina",
+					"height": 1510,
+					"width": 1024,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
@@ -259,12 +247,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://free.iiifhosting.com/iiif/3f38fcc5348c977739193d05536ceac9133cf3fd09260445c99f89885848da1c/full/full/0/default.jpg",
+								"@id": "http://free.iiifhosting.com/iiif/a48c9eaf0dd77b2ddb64df844fe108dd3b16b8bb3903dc7afe2ae6c56d6878af/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://free.iiifhosting.com/iiif/3f38fcc5348c977739193d05536ceac9133cf3fd09260445c99f89885848da1c",
+									"@id": "http://free.iiifhosting.com/iiif/a48c9eaf0dd77b2ddb64df844fe108dd3b16b8bb3903dc7afe2ae6c56d6878af",
 									"profile": [
 										"http://iiif.io/api/image/2/level1.json",
 										{
@@ -288,15 +276,14 @@
 										}
 									]
 								},
-								"height": 644,
-								"width": 965
+								"height": 1510,
+								"width": 1024
 							},
 							"on": "http://e8d55cdc-1c85-4fed-aaed-6498ad14ec5b"
 						}
 					],
 					"related": [
-						"https://peekonperetola.omeka.net/items/show/5",
-						"https://www.historypin.org/en/person/106001/explore/geo/45.0198,-55.607825,2/bounds/-54.320215,-147.601329,83.685086,36.385678/paging/1/pin/1144501"
+						"https://archivevasto.omeka.net/items/show/5"
 					]
 				},
 				{
