@@ -82,7 +82,7 @@
 				{
 					"@id": "http://82bc39bf-7c82-4033-b74a-d52710286181",
 					"@type": "sc:Canvas",
-					"label": "View of the church of \"Santa Maria a Peretola\"",
+					"label": "folio 8v of the Proemio of the Storia Fiorentina",
 					"height": 607,
 					"width": 960,
 					"images": [
@@ -128,7 +128,12 @@
 						}
 					],
 					"related": [
-						"https://peekonperetola.omeka.net/items/show/3"
+						"https://peekonperetola.omeka.net/items/show/3",
+						null,
+						null,
+						null,
+						null,
+						"https://archivevasto.omeka.net/items/show/2"
 					]
 				},
 				{
